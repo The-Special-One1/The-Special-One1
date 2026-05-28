@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:2196F3&height=120&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:2196F3&height=140&section=header&text=Santo%20António%20Arcanjo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=700&height=70&lines=Santo+Antonio+Arcanjo;Data+Analyst+%7C+Spectrum+Mgmt+%7C+Mobile+Dev;From+Maputo+%E2%80%94+Building+with+data." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=700&height=50&lines=Data+Analyst+%7C+Spectrum+Management+%7C+Mobile+Dev;CS50P+%26+CS50SQL+Certified+%E2%80%94+Harvard;Building+with+data+from+Maputo+%F0%9F%87%B2%F0%9F%87%BF" alt="Typing SVG" />
 
 <br/>
 
@@ -15,6 +15,8 @@
 [![CS50P](https://img.shields.io/badge/CS50P-Harvard-crimson?style=for-the-badge&logo=edx&logoColor=white)](https://cs50.harvard.edu/certificates/2cec134f-87d8-4f8a-a92b-83f00a050345)
 [![CS50SQL](https://img.shields.io/badge/CS50SQL-Harvard-crimson?style=for-the-badge&logo=edx&logoColor=white)](https://cs50.harvard.edu/certificates/2f175611-cb43-421b-a477-a79d864ac45f)
 [![Location](https://img.shields.io/badge/📍_Maputo-Moçambique-006400?style=for-the-badge)](https://github.com/The-Special-One1)
+
+![Profile Views](https://komarev.com/ghpvc/?username=The-Special-One1&label=Profile%20Views&color=2196F3&style=for-the-badge)
 
 </div>
 
@@ -46,5 +48,3 @@ profile = {
     "actualmente"   : "Planeamento de Small Cells 5G em Maputo 🔬",
     "aberto_a"      : ["Data Engineering", "Análise de Dados", "Consultoria Telecom"],
 }
-
-<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=The-Special-One1&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Special-One1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/></div><div align="center">
