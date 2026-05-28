@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:2196F3&height=120&section=header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=700&height=70&lines=Santo+António+Arcanjo+🇲🇿;Data+Analyst+%7C+Spectrum+Mgmt+%7C+Mobile+Dev;From+Maputo+—+Building+with+data." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=700&height=70&lines=Santo+Antonio+Arcanjo;Data+Analyst+%7C+Spectrum+Mgmt+%7C+Mobile+Dev;From+Maputo+%E2%80%94+Building+with+data." alt="Typing SVG" />
 
 <br/>
 
