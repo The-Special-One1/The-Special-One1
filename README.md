@@ -46,3 +46,5 @@ profile = {
     "actualmente"   : "Planeamento de Small Cells 5G em Maputo 🔬",
     "aberto_a"      : ["Data Engineering", "Análise de Dados", "Consultoria Telecom"],
 }
+
+<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=The-Special-One1&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Special-One1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/></div><div align="center">
